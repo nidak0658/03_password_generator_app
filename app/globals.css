@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containerBg{
+    background: radial-gradient(rgb(251, 18, 57), red, green);;
+}
